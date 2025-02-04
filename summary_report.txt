@@ -1,0 +1,17 @@
+
+### Summary of Findings
+
+#### 1️⃣ Top 3 Most Profitable Products:
+                               PROD_NAME  TOT_SALES
+        Dorito Corn Chp     Supreme 380g    40352.0
+  Smiths Crnkle Chip  Orgnl Big Bag 380g    36367.6
+Smiths Crinkle Chips Salt & Vinegar 330g    34804.2
+
+#### 2️⃣ Characteristics of Most Loyal Customers:
+- Most common LIFESTAGE among loyal customers: OLDER FAMILIES (66 occurrences)
+- Most common PREMIUM_CUSTOMER type among loyal customers: Budget (90 occurrences)
+
+#### 3️⃣ Marketing Insights:
+- The most loyal customers belong to the **OLDER FAMILIES** life stage and are **Budget** buyers.
+- Since these customers contribute the most revenue, marketing campaigns should focus on **targeting similar customer profiles**.
+- Promotions, loyalty programs, and personalized recommendations for the **top 3 profitable products** could further increase sales.
